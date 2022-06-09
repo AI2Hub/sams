@@ -1,6 +1,7 @@
 # robSams
 
 [![Build status](https://ci.appveyor.com/api/projects/status/v5lt859vmjm3v9i5?svg=true)](https://ci.appveyor.com/project/iscod/sams)
+[![](https://img.shields.io/github/downloads/robGoods/sams/total)](https://github.com/robGoods/sams/releases)
 
 [sam's blog](https://robgoods.github.io/sams/)
 
@@ -66,18 +67,18 @@ Usage of ./sams:
     	可选，HTTP头部track-info
 ```
 
-### BarkId
-
-![bark.png](https://robgoods.github.io/sams/assets/bark.png)
-
 开始运行后按命令行提示操作即可。
 
 ![run.png](https://robgoods.github.io/sams/assets/run.png)
 
+### BarkId
+
+![bark.png](https://robgoods.github.io/sams/assets/bark.png)
+
 ### ☕️ Donate
 
-[![Donate](https://img.shields.io/badge/Donate-WebChat-green.svg)](https://iscod.github.io/images/donate/webchat.png)
-[![Donate](https://img.shields.io/badge/Donate-AliPay-green.svg)](https://iscod.github.io/images/donate/alipay.png)
+[![Donate](https://img.shields.io/badge/Donate-WebChat-50BE6E)](https://iscod.github.io/images/donate/webchat.png)
+[![Donate](https://img.shields.io/badge/Donate-AliPay-377EF8)](https://iscod.github.io/images/donate/alipay.png)
 
 ## 声明
 本项目仅供学习交流，严禁用作商业行为，特别禁止黄牛加价代抢等！
